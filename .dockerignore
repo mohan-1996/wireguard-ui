@@ -14,7 +14,7 @@ docker-compose
 
 # Vscode
 .vscode
-*.code-workspace
+.code-workspace
 
 # Others
 .lgtm.yml
